@@ -1,4 +1,4 @@
-module github.com/cmarkh/go-scheduler
+module github.com/cmarkh/scheduler
 
 go 1.19
 

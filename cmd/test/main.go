@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/cmarkh/go-scheduler"
+	"github.com/cmarkh/scheduler"
 )
 
 func main() {
